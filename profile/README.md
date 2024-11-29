@@ -12,7 +12,7 @@ Hello world and friends! 👋
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-CyberK’s journey began on a lovely September day in 2020 when our first members decided to make a significant shift to the tech world. Since then, we’ve collaborated with over 25 renowned companies in the Blockchain and FinTech sectors, driving forward more than **[insert project number]** impactful projects - all in the quest to help them serve their users seamlessly and securely.
+CyberK’s journey began on a lovely September day in 2020 when our first members decided to make a significant shift to the tech world. Since then, we’ve collaborated with over 25 renowned companies in the Blockchain and FinTech sectors, driving forward more than 30 impactful projects - all in the quest to help them serve their users seamlessly and securely.
 
 
 ### 🏛 CYBERK Collaboration Hub
