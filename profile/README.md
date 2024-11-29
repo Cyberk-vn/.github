@@ -17,9 +17,9 @@ CyberK’s journey began on a lovely September day in 2020 when our first member
 
 ### 🏛 CYBERK Collaboration Hub
 
-**CyberK x Friendzone.pro:** (https://friendzone.pro/)
+**CyberK x Friendzone.pro:** https://friendzone.pro
 
-**CyberK x Coinseeker.co:** (https://coinseeker.co/projects) 
+**CyberK x Coinseeker.co:** https://coinseeker.co/projects
 
 As a deep B2B developer, CyberK has focused on delivering innovative and lean tech experiences to our growing community, empowering them on their journey to transform the future.
 
